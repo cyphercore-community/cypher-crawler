@@ -37,7 +37,7 @@ Cypher Crawler is a fast, extensible Python-based web crawler designed for cyber
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/cypher-crawler.git
+git clone https://github.com/cyphercore-community/cypher-crawler.git
 cd cypher-crawler
 
 # Install dependencies
@@ -50,7 +50,7 @@ pip install -e .
 ### Quick run (no install)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cypher-crawler.git
+git clone https://github.com/cyphercore-community/cypher-crawler.git
 cd cypher-crawler
 pip install -r requirements.txt
 python -m cypher_crawler.main -u https://example.com
